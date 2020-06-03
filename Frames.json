@@ -1,0 +1,28 @@
+{
+  "wallpapers": [
+    {
+      "author": "@kaljabri",
+      "url": "https://github.com/kaljabri05/boos_ui/raw/master/20200603_102414.jpg",
+      "name": "wall 01",
+      "thumbnail": "https://github.com/kaljabri05/boos_ui/raw/master/20200603_102414.jpg"
+    },
+    {
+      "author": "@kaljabri",
+      "url": "https://github.com/kaljabri05/boos_ui/raw/master/20200603_102404.jpg",
+      "name": "wall 02",
+      "thumbnail": "https://github.com/kaljabri05/boos_ui/raw/master/20200603_102404.jpg"
+    },
+    {
+      "author": "@kaljabri",
+      "url": "https://github.com/kaljabri05/boos_ui/raw/master/20200603_102349.jpg",
+      "name": "wall 03",
+      "thumbnail": "https://github.com/kaljabri05/boos_ui/raw/master/20200603_102349.jpg"
+    }, 
+    {
+      "author": "@kaljabri",
+      "url": "https://github.com/kaljabri05/boos_ui/raw/master/20200603_102257.jpg",
+      "name": "wall 4",
+      "thumbnail": "https://github.com/kaljabri05/boos_ui/raw/master/20200603_102257.jpg"
+    }
+  ]
+}
